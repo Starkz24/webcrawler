@@ -1,0 +1,12 @@
+apify_client
+streamlit
+streamlit_chat
+langchain
+sentence_transformers
+langchain-community
+unstructured
+pinecone-client 
+langchain-pinecone
+langchain-openai
+pinecone-notebooks  
+google-generativeai
